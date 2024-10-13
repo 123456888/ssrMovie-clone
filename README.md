@@ -1,1 +1,1 @@
-This is one of my fav movie app clone based on React Native, Tailwind CSS, Nativewind, JavaScript, Navigator etc.
+This is one of my fav movie app clone based on React Native, Tailwind CSS, Nativewind, JavaScript, Navigator etc. In this application we are able to search movies, and details of movie also. In this application i used two navigator(Stack and Drawer) for redirect one page to another and for side nav.
